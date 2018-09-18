@@ -1,5 +1,6 @@
+package frc;
 
-/**
+/*
  * Path Planner class that uses an interpolating cubic spline to generate a path
  * between a number of way points. 
  * 

@@ -1,3 +1,4 @@
+package frc;
 
 /**
  * Utility class based on 2d arrays to solve nxn linear systems.

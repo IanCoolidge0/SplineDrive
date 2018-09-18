@@ -1,3 +1,4 @@
+package frc;
 
 /**
  * Overall class that interpolates a cubic spline from a number of way points.
